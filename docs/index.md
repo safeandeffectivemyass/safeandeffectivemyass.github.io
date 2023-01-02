@@ -2,7 +2,7 @@
 
 Safe and Effective? My Ass:
 
-
+- Broudy, Daniel, and Valerie Kyrie. "Syllogistic reasoning demystifies evidence of COVID-19 vaccine constituents." International Journal of Vaccine Theory, Practice, and Research 2.1 (2021): 149-171. [Full](https://ijvtpr.com/index.php/IJVTPR/article/view/32)
 -  Maurizio Sessa, Kristian Kragholm, Anders Hviid & Morten Andersen (2021) Thromboembolic events in younger women exposed to Pfizer-BioNTech or Moderna COVID-19 vaccines, Expert Opinion on Drug Safety, 20:11, 1451-1453, DOI: 10.1080/14740338.2021.1955101, [PDF, Full](https://www.tandfonline.com/doi/epdf/10.1080/14740338.2021.1955101?needAccess=true&role=button)
 - Garg RK, Paliwal VK. Spectrum of neurological complications following COVID-19 vaccination. Neurol Sci. 2022 Jan;43(1):3-40. doi: 10.1007/s10072-021-05662-9. Epub 2021 Oct 31. PMID: 34719776; PMCID: PMC8557950. [PDF, Full](https://link.springer.com/article/10.1007/s10072-021-05662-9)
 - Jonathan Sprent, Cecile King, COVID-19 vaccine side effects: The positives about feeling bad, Science Immunology, 6, 60, (2021). /doi/10.1126/sciimmunol.abj9256 [Full](https://www.science.org/doi/10.1126/science.370.6520.1022)
@@ -30,5 +30,5 @@ Vaccine side-effects and SARS-CoV-2 infection after vaccination in users of the 
 - COVID-19 Vaccination in Children: An Open Question, Giuseppe Campagnani, Flaminia Bardanzellu*, Maria Cristina Pintus, Vassilios Fanos and Maria Antonietta Marcialis, Volume 18, Issue 3, 2022, Published on: 12 April, 2022, Page: [226 - 236] Pages: 11, DOI: 10.2174/1573396318666211220093111, Price: $65
 - J. Rose., A Report on the U.S. Vaccine Adverse Events Reporting System (VAERS) of the COVID-1 9 Messenger Ribonucleic Acid (mRNA) Biologicals, Science, Public Health Policy, and The Law (May 2021) [Full](https://cf5e727d-d02d-4d71-89ff-9fe2d3ad957f.filesusr.com/ugd/adf864_a0a813acbfdc4534a8cb50cf85193d49.pdf)
 - Abbas, A.H. Politicizing COVID-19 Vaccines in the Press: A Critical Discourse Analysis. Int J Semiot Law 35, 1167–1185 (2022). https://doi.org/10.1007/s11196-021-09857-3 [Full](https://link.springer.com/article/10.1007/s11196-021-09857-3)
-- Broudy, Daniel, and Valerie Kyrie. "Syllogistic reasoning demystifies evidence of COVID-19 vaccine constituents." International Journal of Vaccine Theory, Practice, and Research 2.1 (2021): 149-171.[Full](https://ijvtpr.com/index.php/IJVTPR/article/view/32)
+
 
