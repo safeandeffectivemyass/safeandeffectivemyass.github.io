@@ -2,7 +2,7 @@
 
 Safe and Effective? My Ass:
 
-- Broudy, Daniel, and Valerie Kyrie. "Syllogistic reasoning demystifies evidence of COVID-19 vaccine constituents." International Journal of Vaccine Theory, Practice, and Research 2.1 (2021): 149-171. [Full](https://ijvtpr.com/index.php/IJVTPR/article/view/32)
+- Broudy, Daniel, and Valerie Kyrie. "Syllogistic reasoning demystifies evidence of COVID-19 vaccine constituents." International Journal of Vaccine Theory, Practice, and Research 2.1 (2021): 149-171. [Abstract](https://ijvtpr.com/index.php/IJVTPR/article/view/32) [Full, PDF](https://www.researchgate.net/publication/357003131_Syllogistic_Reasoning_Demystifies_Evidence_of_COVID-19_Vaccine_Constituents)
 -  Maurizio Sessa, Kristian Kragholm, Anders Hviid & Morten Andersen (2021) Thromboembolic events in younger women exposed to Pfizer-BioNTech or Moderna COVID-19 vaccines, Expert Opinion on Drug Safety, 20:11, 1451-1453, DOI: 10.1080/14740338.2021.1955101, [PDF, Full](https://www.tandfonline.com/doi/epdf/10.1080/14740338.2021.1955101?needAccess=true&role=button)
 - Garg RK, Paliwal VK. Spectrum of neurological complications following COVID-19 vaccination. Neurol Sci. 2022 Jan;43(1):3-40. doi: 10.1007/s10072-021-05662-9. Epub 2021 Oct 31. PMID: 34719776; PMCID: PMC8557950. [PDF, Full](https://link.springer.com/article/10.1007/s10072-021-05662-9)
 - Jonathan Sprent, Cecile King, COVID-19 vaccine side effects: The positives about feeling bad, Science Immunology, 6, 60, (2021). /doi/10.1126/sciimmunol.abj9256 [Full](https://www.science.org/doi/10.1126/science.370.6520.1022)
