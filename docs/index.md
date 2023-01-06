@@ -39,4 +39,5 @@ Safe and Effective? My Ass:
 35. [Doctors for Covid Ethics  We are doctors and scientists from 30 countries, seeking to uphold medical ethics, patient safety and human rights in response to COVID-19.](https://doctors4covidethics.org/)
 36. Gazzeri, R. (2022). Scanning and Transmission Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific Medical Sciences, 98–111. https://doi.org/10.31080/asms.2022.06.1351 [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-robert-young.pdf)
 37. Bernard, N.J. Vaccine thrombosis. Nat Immunol 23, 2 (2022). https://doi.org/10.1038/s41590-021-01111-z (https://www.nature.com/articles/s41590-021-01111-z.pdf)
+38. Lethal Interactions of SARS-CoV-2 with Graphene Oxide: Implications for COVID-19 Treatment, Masahiro Fukuda, M. Saidul Islam, Ryo Shimizu, Hesham Nasser, Nurun Nahar Rabin, Yukie Takahashi, Yoshihiro Sekine, Leonard F. Lindoy, Takaichi Fukuda, Terumasa Ikeda, and Shinya Hayami, ACS Applied Nano Materials 2021 4 (11), 11881-11887 DOI: 10.1021/acsanm.1c02446 [PDF](https://pubs.acs.org/doi/pdf/10.1021/acsanm.1c02446)
 
