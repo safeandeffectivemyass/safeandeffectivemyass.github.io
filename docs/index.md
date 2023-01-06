@@ -38,4 +38,5 @@ Safe and Effective? My Ass:
 34. Doctors for COVID Ethics. (2022, August 19). [Did Pfizer Perform Adequate Safety Testing for its Covid-19 mRNA Vaccine in Preclinical Studies? Evidence of Scientific and Regulatory Fraud.](https://doctors4covidethics.org/did-pfizer-perform-adequate-safety-testing-for-its-covid-19-mrna-vaccine-in-preclinical-studies-evidence-of-scientific-and-regulatory-fraud/)
 35. [Doctors for Covid Ethics  We are doctors and scientists from 30 countries, seeking to uphold medical ethics, patient safety and human rights in response to COVID-19.](https://doctors4covidethics.org/)
 36. Gazzeri, R. (2022). Scanning and Transmission Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific Medical Sciences, 98–111. https://doi.org/10.31080/asms.2022.06.1351 [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-robert-young.pdf)
+37. Bernard, N.J. Vaccine thrombosis. Nat Immunol 23, 2 (2022). https://doi.org/10.1038/s41590-021-01111-z (https://www.nature.com/articles/s41590-021-01111-z.pdf)
 
