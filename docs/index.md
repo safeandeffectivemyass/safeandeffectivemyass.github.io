@@ -47,5 +47,9 @@ Safe and Effective? My Ass:
 43. Shir-Raz, Y., Elisha, E., Martin, B. et al. Censorship and Suppression of Covid-19 Heterodoxy: Tactics and Counter-Tactics. Minerva (2022). https://doi.org/10.1007/s11024-022-09479-4 [PDF](https://link.springer.com/content/pdf/10.1007/s11024-022-09479-4.pdf?pdf=button%20sticky)
 44. Aquaro, Giovanni Donatoa; Licordari, Robertob; Todiere, Giancarloa; Ianni, Umbertoc; Dellegrotaglie, Santod; Restivo, Lucae; Grigoratos, Crysanthosa; Patanè, Francescof; Barison, Andreaa; Micari, Antoniog; Di Bella, Gianlucab. Incidence of acute myocarditis and pericarditis during the coronavirus disease 2019 pandemic: comparison with the prepandemic period. Journal of Cardiovascular Medicine 23(7):p 447-453, July 2022. DOI: 10.2459/JCM.0000000000001330  [Full](https://journals.lww.com/jcardiovascularmedicine/fulltext/2022/07000/incidence_of_acute_myocarditis_and_pericarditis.5.aspx) 
 45. Schwab, C., Domke, L.M., Hartmann, L. et al. Autopsy-based histopathological characterization of myocarditis after anti-SARS-CoV-2-vaccination. Clin Res Cardiol (2022). https://doi.org/10.1007/s00392-022-02129-5 [Full](https://link.springer.com/article/10.1007/s00392-022-02129-5)
-46. de Fougerolles, A., & Guild, J. (2019). Modified polynucleotides for the production of secreted proteins (Patent No. US10703789B2). United States Patent and Trademark Office. https://patents.google.com/patent/US10703789B2/en (Current Assignee: ModernaTx Inc)
+
+Articles of note:
+
+1. de Fougerolles, A., & Guild, J. (2019). Modified polynucleotides for the production of secreted proteins (Patent No. US10703789B2). United States Patent and Trademark Office. https://patents.google.com/patent/US10703789B2/en (Current Assignee: ModernaTx Inc)
+2. Bernstein, J. (2021, September 16). Grow and eat your own vaccines? News. https://news.ucr.edu/articles/2021/09/16/grow-and-eat-your-own-vaccines
 
