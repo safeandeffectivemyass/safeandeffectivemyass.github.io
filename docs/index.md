@@ -48,6 +48,7 @@ Safe and Effective? My Ass:
 44. Shir-Raz, Y., Elisha, E., Martin, B. et al. Censorship and Suppression of Covid-19 Heterodoxy: Tactics and Counter-Tactics. Minerva (2022). https://doi.org/10.1007/s11024-022-09479-4 [PDF](https://link.springer.com/content/pdf/10.1007/s11024-022-09479-4.pdf?pdf=button%20sticky)
 45. Aquaro, Giovanni Donatoa; Licordari, Robertob; Todiere, Giancarloa; Ianni, Umbertoc; Dellegrotaglie, Santod; Restivo, Lucae; Grigoratos, Crysanthosa; Patanè, Francescof; Barison, Andreaa; Micari, Antoniog; Di Bella, Gianlucab. Incidence of acute myocarditis and pericarditis during the coronavirus disease 2019 pandemic: comparison with the prepandemic period. Journal of Cardiovascular Medicine 23(7):p 447-453, July 2022. DOI: 10.2459/JCM.0000000000001330  [Full](https://journals.lww.com/jcardiovascularmedicine/fulltext/2022/07000/incidence_of_acute_myocarditis_and_pericarditis.5.aspx) 
 46. Schwab, C., Domke, L.M., Hartmann, L. et al. Autopsy-based histopathological characterization of myocarditis after anti-SARS-CoV-2-vaccination. Clin Res Cardiol (2022). https://doi.org/10.1007/s00392-022-02129-5 [Full](https://link.springer.com/article/10.1007/s00392-022-02129-5)
+47. Katella, K. (2022, May 6). The Link Between J&J’s COVID Vaccine and Blood Clots: What You Need to Know. Yale Medicine. https://www.yalemedicine.org/news/coronavirus-vaccine-blood-clots
 
 Articles of note:
 
