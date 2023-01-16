@@ -56,4 +56,5 @@ Articles of note:
 
 1. de Fougerolles, A., & Guild, J. (2019). Modified polynucleotides for the production of secreted proteins (Patent No. US10703789B2). United States Patent and Trademark Office. https://patents.google.com/patent/US10703789B2/en (Current Assignee: ModernaTx Inc)
 2. Bernstein, J. (2021, September 16). Grow and eat your own vaccines? News. https://news.ucr.edu/articles/2021/09/16/grow-and-eat-your-own-vaccines
+3. Reuters. (2023, January 14). U.S. FDA, CDC see early signal of possible Pfizer bivalent COVID shot link to stroke. Reuters. https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/
 
