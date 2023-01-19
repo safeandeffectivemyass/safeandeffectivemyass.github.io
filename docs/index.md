@@ -73,4 +73,3 @@ Articles of note:
 4. So, who is [Peter Daszak, president of EcoHealth Alliance?](https://peterdaszak.com/)
 5. Kingston, K. (2023, January 13). [10 Reasons to Criminally Charge Pfizer NOW.](https://karenkingston.substack.com/p/10-reasons-to-criminally-charge-pfizer)
 6. Bruno, R., Mccullough, P. A., Vila, T. F. I., Henrion-Caude, A., García-Gasca, T., Zaitzeva, G. P., Priester, S., Albarracín, M. J. M., Sousa-Escandon, A., Mirones, F. L., Cifre, B. P., Velilla, A. Z., Borini, L. M., Mas, M., Salazar, R., Schinder, E., Yahbes, E. A., Witt, M., Salmeron, M., . . . Acevedo-Whitehouse, K. (2021). SARS-CoV-2 mass vaccination: Urgent questions on vaccine safety that demand answers from international health agencies, regulatory authorities, governments and vaccine developers. [This Article Is a Preprint. It May Not Have Been Peer Reviewed.]. https://doi.org/10.22541/au.162136772.22862058/v2 [Full](https://europepmc.org/article/PPR/PPR345192)
-
