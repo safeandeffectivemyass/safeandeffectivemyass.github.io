@@ -56,6 +56,7 @@ Safe and Effective? My Ass:
 52. Schwab, C., Domke, L.M., Hartmann, L. et al. Autopsy-based histopathological characterization of myocarditis after anti-SARS-CoV-2-vaccination. Clin Res Cardiol (2022). https://doi.org/10.1007/s00392-022-02129-5 [Full](https://link.springer.com/article/10.1007/s00392-022-02129-5)
 53. Katella, K. (2022, May 6). The Link Between J&J’s COVID Vaccine and Blood Clots: What You Need to Know. Yale Medicine. https://www.yalemedicine.org/news/coronavirus-vaccine-blood-clots
 54. CDC, FDA see possible link between Pfizer’s bivalent shot and strokes. (2023, January 13). POLITICO. https://www.politico.com/news/2023/01/13/cdc-fda-pfizer-bivalent-vaccine-possible-strokes-00077933
+55. Fu, P. A., Chen, C. W., Hsu, Y. T., Wei, K. C., Lin, P. C., & Chen, T. Y. (2022). A case of acquired hemophilia A and bullous pemphigoid following SARS-CoV-2 mRNA vaccination. Journal of the Formosan Medical Association, 121(9), 1872–1876. https://doi.org/10.1016/j.jfma.2022.02.017 [Full](https://www.sciencedirect.com/science/article/pii/S0929664622000985)
 
 Articles of note:
 
