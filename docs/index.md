@@ -59,6 +59,7 @@ Safe and Effective? My Ass:
 55. Fu, P. A., Chen, C. W., Hsu, Y. T., Wei, K. C., Lin, P. C., & Chen, T. Y. (2022). A case of acquired hemophilia A and bullous pemphigoid following SARS-CoV-2 mRNA vaccination. Journal of the Formosan Medical Association, 121(9), 1872–1876. https://doi.org/10.1016/j.jfma.2022.02.017 [Full](https://www.sciencedirect.com/science/article/pii/S0929664622000985)
 56. Wiest, N.E.; Johns, G.S.; Edwards, E. A Case of Acute Pulmonary Embolus after mRNA SARS-CoV-2 Immunization. Vaccines 2021, 9, 903. https://doi.org/10.3390/vaccines9080903 [Full](https://www.mdpi.com/2076-393X/9/8/903)
 57. Kamura, Y., Terao, T., Akao, S., Kono, Y., Honma, K., & Matsue, K. (2022). Fatal thrombotic microangiopathy with rhabdomyolysis as an initial symptom after the first dose of mRNA–1273 vaccine: A case report. International Journal of Infectious Diseases, 117, 322–325. https://doi.org/10.1016/j.ijid.2022.02.031 [Full](https://www.sciencedirect.com/science/article/pii/S1201971222001072)
+58. Sebastian Molina-Rios, Rigoberto Rojas-Martinez, Gloria Marcela Estévez-Ramirez, Yimy Francisco Medina, Systemic lupus erythematosus and antiphospholipid syndrome after COVID-19 vaccination. A case report, Modern Rheumatology Case Reports, Volume 7, Issue 1, January 2023, Pages 43–46, https://doi.org/10.1093/mrcr/rxac018 [Full] (https://academic.oup.com/mrcr/article/7/1/43/6542744)
 
 Articles of note:
 
