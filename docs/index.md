@@ -62,6 +62,7 @@ Safe and Effective? My Ass:
 58. Wiest, N.E.; Johns, G.S.; Edwards, E. A Case of Acute Pulmonary Embolus after mRNA SARS-CoV-2 Immunization. Vaccines 2021, 9, 903. https://doi.org/10.3390/vaccines9080903 [Full](https://www.mdpi.com/2076-393X/9/8/903)
 59. Kamura, Y., Terao, T., Akao, S., Kono, Y., Honma, K., & Matsue, K. (2022). Fatal thrombotic microangiopathy with rhabdomyolysis as an initial symptom after the first dose of mRNA–1273 vaccine: A case report. International Journal of Infectious Diseases, 117, 322–325. https://doi.org/10.1016/j.ijid.2022.02.031 [Full](https://www.sciencedirect.com/science/article/pii/S1201971222001072)
 60. Sebastian Molina-Rios, Rigoberto Rojas-Martinez, Gloria Marcela Estévez-Ramirez, Yimy Francisco Medina, Systemic lupus erythematosus and antiphospholipid syndrome after COVID-19 vaccination. A case report, Modern Rheumatology Case Reports, Volume 7, Issue 1, January 2023, Pages 43–46, https://doi.org/10.1093/mrcr/rxac018 [Full] (https://academic.oup.com/mrcr/article/7/1/43/6542744)
+61. Nasr, S., Khalil, S., Poiesz, B. J., Banki, K., & Perl, A. (2021). Pfizer–biontech COVID-19 RNA vaccination induces phosphatidylserine autoantibodies, cryoglobulinemia, and digital necrosis in a patient with pre-existing autoimmunity. Clinical Immunology Communications, 1, 1–3. https://doi.org/10.1016/j.clicom.2021.08.001 [Full](https://www.sciencedirect.com/science/article/pii/S2772613421000020)
 
 Articles of note:
 
