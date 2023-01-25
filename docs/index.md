@@ -66,6 +66,7 @@ Safe and Effective? My Ass:
 62. Medha Reddy Cherabuddi, Zaid Al-Saheli, Vijaya Donthireddy; A Case Series of Immune Flare and Lupus Anticoagulant Following COVID-19 Vaccination. Blood 2022; 140 (Supplement 1): 11234–11235. doi: https://doi.org/10.1182/blood-2022-159789 [Full](https://ashpublications.org/blood/article/140/Supplement%201/11234/487726)
 63. Gao, F. X., Wu, R. X., Shen, M. Y., Huang, J. J., Li, T. T., Hu, C., Luo, F. Y., Song, S. Y., Mu, S., Hao, Y. N., Han, X. J., Wang, Y. M., Li, L., Li, S. L., Chen, Q., Wang, W., & Jin, A. S. (2022). Extended SARS-CoV-2 RBD booster vaccination induces humoral and cellular immune tolerance in mice. IScience, 25(12), 105479. https://doi.org/10.1016/j.isci.2022.105479 [Full](https://www.sciencedirect.com/science/article/pii/S2589004222017515)
 64. Shrestha, N. K., Burke, P. C., Nowacki, A. S., Simon, J. F., Hagen, A., & Gordon, S. M. (2022). Effectiveness of the Coronavirus Disease 2019 (COVID-19) Bivalent Vaccine. [PRE-PRINT]. https://doi.org/10.1101/2022.12.17.22283625 [Full](https://www.medrxiv.org/content/10.1101/2022.12.17.22283625v1.full.pdf)
+65. Polykretis, P. and McCullough, P.A. (2023), Rational harm-benefit assessments by age group are required for continued COVID-19 vaccination. Scand J Immunol e13242. https://doi.org/10.1111/sji.13242
 
 Articles of note:
 
