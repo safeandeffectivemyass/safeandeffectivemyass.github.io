@@ -80,3 +80,6 @@ Articles of note:
 7. A, R. (2023, January 22). 1676 Athlete Cardiac Arrests or Serious Issues, 1179 of Them Dead, Since COVID Injection - Real Science. Real Science. https://goodsciencing.com/covid/athletes-suffer-cardiac-arrest-die-after-covid-shot/
 8. [Pfizer Reports](https://dailyclout.io/category/pfizer-reports/)
 9. [Global Covid Summit Pediatric Declaration](https://globalcovidsummit.org/news/global-covid-summit-pediatric-declaration)
+10. Barnhart, M. (2022, September 21). A box of 200 mosquitoes did the vaccinating in this malaria trial. That’s not a joke! NPR. 
+11. https://www.npr.org/sections/goatsandsoda/2022/09/21/1112727841/a-box-of-200-mosquitoes-did-the-vaccinating-in-this-malaria-trial-thats-not-a-jo
+12. News-Medical.net. (2021, September 16). Researchers aim to develop edible plant-based mRNA vaccines. https://www.news-medical.net/news/20210916/Researchers-aim-to-develop-edible-plant-based-mRNA-vaccines.aspx
