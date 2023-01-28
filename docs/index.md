@@ -1,5 +1,6 @@
 ["Fauci predicts 'safe and effective' coronavirus vaccine by end of year."](https://www.nbcnews.com/news/us-news/fauci-predicts-safe-effective-coronavirus-vaccine-end-year-n1239055)
 
+
 Safe and Effective? My Ass:
 
 1. Karrow, N.A.; Shandilya, U.K.; Pelech, S.; Wagter-Lesperance, L.; McLeod, D.; Bridle, B.; Mallard, B.A. Maternal COVID-19 Vaccination and Its Potential Impact on Fetal and Neonatal Development. Vaccines 2021, 9, 1351. https://doi.org/10.3390/vaccines9111351 [Full](https://www.mdpi.com/2076-393X/9/11/1351)
@@ -69,6 +70,7 @@ Safe and Effective? My Ass:
 65. Polykretis, P. and McCullough, P.A. (2023), Rational harm-benefit assessments by age group are required for continued COVID-19 vaccination. Scand J Immunol e13242. https://doi.org/10.1111/sji.13242
 66. Skidmore, M. The role of social circle COVID-19 illness and vaccination experiences in COVID-19 vaccination decisions: an online survey of the United States population. BMC Infect Dis 23, 51 (2023). https://doi.org/10.1186/s12879-023-07998-3
 67. ... [mrna myocarditis](https://scholar.google.com/scholar?start=0&q=mrna+myocarditis&hl=en&as_sdt=0,5&as_ylo=2019)
+68. Brian S. Hooker and Neil Z. Miller (2021) Health effects in vaccinated versus unvaccinated children with covariates for breastfeeding status and type of birth.JTranslSci 7: DOI: 10.15761/JTS.1000459.
 
 Articles of note:
 
