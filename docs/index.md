@@ -68,6 +68,7 @@ Safe and Effective? My Ass:
 64. Shrestha, N. K., Burke, P. C., Nowacki, A. S., Simon, J. F., Hagen, A., & Gordon, S. M. (2022). Effectiveness of the Coronavirus Disease 2019 (COVID-19) Bivalent Vaccine. [PRE-PRINT]. https://doi.org/10.1101/2022.12.17.22283625 [Full](https://www.medrxiv.org/content/10.1101/2022.12.17.22283625v1.full.pdf)
 65. Polykretis, P. and McCullough, P.A. (2023), Rational harm-benefit assessments by age group are required for continued COVID-19 vaccination. Scand J Immunol e13242. https://doi.org/10.1111/sji.13242
 66. Skidmore, M. The role of social circle COVID-19 illness and vaccination experiences in COVID-19 vaccination decisions: an online survey of the United States population. BMC Infect Dis 23, 51 (2023). https://doi.org/10.1186/s12879-023-07998-3
+67. ... [mrna myocarditis](https://scholar.google.com/scholar?start=0&q=mrna+myocarditis&hl=en&as_sdt=0,5&as_ylo=2019)
 
 Articles of note:
 
