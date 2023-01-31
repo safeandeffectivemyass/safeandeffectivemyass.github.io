@@ -86,7 +86,8 @@ Articles of note:
 10. Barnhart, M. (2022, September 21). A box of 200 mosquitoes did the vaccinating in this malaria trial. That’s not a joke! NPR. 
 11. https://www.npr.org/sections/goatsandsoda/2022/09/21/1112727841/a-box-of-200-mosquitoes-did-the-vaccinating-in-this-malaria-trial-thats-not-a-jo
 12. News-Medical.net. (2021, September 16). Researchers aim to develop edible plant-based mRNA vaccines. https://www.news-medical.net/news/20210916/Researchers-aim-to-develop-edible-plant-based-mRNA-vaccines.aspx
-13. Gates, B. (n.d.). This factory breeds 30 million mosquitoes per week. Here’s why. gatesnotes.com. https://www.gatesnotes.com/Health/Mosquito-Factory
+13. Gates, B. (n.d.). [This factory breeds 30 million mosquitoes per week. Here’s why. gatesnotes.com.](https://www.gatesnotes.com/Health/Mosquito-Factory)
 14. Science. (n.d.). AAAS.  [Brazil will release billions of lab-grown mosquitoes to combat infectious disease. Will it work?](https://www.science.org/content/article/brazil-will-release-billions-lab-grown-mosquitoes-combat-infectious-disease-will-it)
+15. Bass, K. (2023, January 30). [It’s Time for the Scientific Community to Admit We Were Wrong About COVID and It Cost Lives Opinion. Newsweek.](https://www.newsweek.com/its-time-scientific-community-admit-we-were-wrong-about-coivd-it-cost-lives-opinion-1776630)
 
 
