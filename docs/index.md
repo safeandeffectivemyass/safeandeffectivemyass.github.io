@@ -51,7 +51,8 @@ Safe and Effective? My Ass:
 46. Hughes, David (2022) What is in the so-called COVID-19 “Vaccines”? Part 1: Evidence of a Global Crime Against Humanity. International Journal of Vaccine Theory, Practice and Research, 2 (2). pp. 455-586. ISSN 2766-5852 (ttps://doi.org/10.56098/ijvtpr.v2i1.32) [PDF](https://ijvtpr.com/index.php/IJVTPR/article/view/52/121)
 47. Doctors for COVID Ethics. (2022, August 19). [Did Pfizer Perform Adequate Safety Testing for its Covid-19 mRNA Vaccine in Preclinical Studies? Evidence of Scientific and Regulatory Fraud.](https://doctors4covidethics.org/did-pfizer-perform-adequate-safety-testing-for-its-covid-19-mrna-vaccine-in-preclinical-studies-evidence-of-scientific-and-regulatory-fraud/)
 48. [Doctors for Covid Ethics  We are doctors and scientists from 30 countries, seeking to uphold medical ethics, patient safety and human rights in response to COVID-19.](https://doctors4covidethics.org/)
-49. Gazzeri, R. (2022). Scanning and Transmission Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific Medical Sciences, 98–111. https://doi.org/10.31080/asms.2022.06.1351 [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-robert-young.pdf)
+49. Gazzeri, R. (2022). 
+Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific Medical Sciences, 98–111. https://doi.org/10.31080/asms.2022.06.1351 [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-robert-young.pdf)
 50. Bernard, N.J. Vaccine thrombosis. Nat Immunol 23, 2 (2022). https://doi.org/10.1038/s41590-021-01111-z [PDF](https://www.nature.com/articles/s41590-021-01111-z.pdf)
 51. Lethal Interactions of SARS-CoV-2 with Graphene Oxide: Implications for COVID-19 Treatment, Masahiro Fukuda, M. Saidul Islam, Ryo Shimizu, Hesham Nasser, Nurun Nahar Rabin, Yukie Takahashi, Yoshihiro Sekine, Leonard F. Lindoy, Takaichi Fukuda, Terumasa Ikeda, and Shinya Hayami, ACS Applied Nano Materials 2021 4 (11), 11881-11887 DOI: 10.1021/acsanm.1c02446 [PDF](https://pubs.acs.org/doi/pdf/10.1021/acsanm.1c02446)
 52. Lee, Y. M., Park, S., & Jeon, K.-Y. (2022). Foreign Materials in Blood Samples of Recipients of COVID-19 Vaccines. International Journal of Vaccine Theory, Practice, and Research, 2(1), 249–265. https://doi.org/10.56098/ijvtpr.v2i1.37 (Original work published March 11, 2022) [PDF](https://ijvtpr.com/index.php/IJVTPR/article/view/37/131)
@@ -72,6 +73,8 @@ Safe and Effective? My Ass:
 67. Skidmore, M. The role of social circle COVID-19 illness and vaccination experiences in COVID-19 vaccination decisions: an online survey of the United States population. BMC Infect Dis 23, 51 (2023). https://doi.org/10.1186/s12879-023-07998-3
 68. ... [mrna myocarditis](https://scholar.google.com/scholar?start=0&q=mrna+myocarditis&hl=en&as_sdt=0,5&as_ylo=2019)
 69. Brian S. Hooker and Neil Z. Miller (2021) Health effects in vaccinated versus unvaccinated children with covariates for breastfeeding status and type of birth.JTranslSci 7: DOI: 10.15761/JTS.1000459.
+70. Gazzeri, R. (2022). Scanning and Transmission Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific Medical Sciences, 98–111. https://doi.org/10.31080/asms.2022.06.1351 [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-robert-young.pdf)
+71. Tuuminen, Tamara. "Discussion and Commentary on the Preceding Article: A Question Concerning “Dark-Field Microscopic Analysis on the Blood of 1,006 Symptomatic Persons After Anti-COVID mRNA Injections from Pfizer/BioNtech or Moderna” by Benzi Cipelli et al." International Journal of Vaccine Theory, Practice, and Research 2.2 (2022): 444-1. [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-italie.pdf)
 
 Articles of note:
 
@@ -91,5 +94,8 @@ Articles of note:
 14. Science. (n.d.). AAAS.  [Brazil will release billions of lab-grown mosquitoes to combat infectious disease. Will it work?](https://www.science.org/content/article/brazil-will-release-billions-lab-grown-mosquitoes-combat-infectious-disease-will-it)
 15. Bass, K. (2023, January 30). [It’s Time for the Scientific Community to Admit We Were Wrong About COVID and It Cost Lives Opinion. Newsweek.](https://www.newsweek.com/its-time-scientific-community-admit-we-were-wrong-about-coivd-it-cost-lives-opinion-1776630)
 16. [Over 50k Brits have Died Suddenly in the past 8 Months COVID - DeMed.](https://forum.demed.com/COVID/posts/ovNBRnNxHIg5aj708mLb)
+17. Light, T. C. T. (2021, November 26). Graphene Oxide & Nano-Router Circuitry in Covid Vaccines: Uncovering the True Purpose of These Mandatory Toxic Injections - Truth Comes to Light. Truth Comes to Light. https://truthcomestolight.com/graphene-oxide-nano-router-circuitry-in-covid-vaccines-uncovering-the-true-purpose-of-these-mandatory-toxic-injections/
+18. M, L. (2022, July 9). [Relevant article , White Papers  and other documents  concerning The m RNA VACCINE: An interesting  collection useful to better understand some phenomena  and to  generate hypotesys. International Online Medical Council.](https://www.iomcworld.com/abstract/relevant-article-white-papers-and-other-documents-concerning-the-m-rna-vaccine-an-interesting--collection-useful-to-bett-113662.html)
+19. Tavares, J.L., Cavalcanti, I.D.L., Santos Magalhães, N.S. et al. [Nanotechnology and COVID-19: quo vadis?. J Nanopart Res 24, 62 (2022).](https://doi.org/10.1007/s11051-022-05452-0)
 
 
