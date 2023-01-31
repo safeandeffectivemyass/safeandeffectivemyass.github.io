@@ -89,5 +89,6 @@ Articles of note:
 13. Gates, B. (n.d.). [This factory breeds 30 million mosquitoes per week. Here’s why. gatesnotes.com.](https://www.gatesnotes.com/Health/Mosquito-Factory)
 14. Science. (n.d.). AAAS.  [Brazil will release billions of lab-grown mosquitoes to combat infectious disease. Will it work?](https://www.science.org/content/article/brazil-will-release-billions-lab-grown-mosquitoes-combat-infectious-disease-will-it)
 15. Bass, K. (2023, January 30). [It’s Time for the Scientific Community to Admit We Were Wrong About COVID and It Cost Lives Opinion. Newsweek.](https://www.newsweek.com/its-time-scientific-community-admit-we-were-wrong-about-coivd-it-cost-lives-opinion-1776630)
+16. [Over 50k Brits have Died Suddenly in the past 8 Months COVID - DeMed.](https://forum.demed.com/COVID/posts/ovNBRnNxHIg5aj708mLb)
 
 
