@@ -98,5 +98,6 @@ Articles of note:
 18. Tavares, J.L., Cavalcanti, I.D.L., Santos Magalhães, N.S. et al. [Nanotechnology and COVID-19: quo vadis?. J Nanopart Res 24, 62 (2022).](https://doi.org/10.1007/s11051-022-05452-0)
 19. Jaramillo, C. (2022, June 15). [Posts Distort Questionable Study on COVID-19 Vaccination and EMS Calls - FactCheck.org.](https://www.factcheck.org/2022/06/scicheck-covid-19-increases-risk-for-heart-disorders-not-vaccines/)
 20. Journal, M. A. W., & Journal, W. (2023, February 1). [Top Expert Sounds the Alarm, Calls for Immediate Suspension of All mRNA Vaccines. IJR.](https://ijr.com/top-expert-sounds-alarm-calls-immediate-suspension-mrna-vaccines/)
+21. Hoseini SS, Sauer MG. [Molecular cloning using polymerase chain reaction, an educational guide for cellular engineering. J Biol Eng. 2015 Jan 19;9:2. doi: 10.1186/1754-1611-9-2. PMID: 25745516; PMCID: PMC4350901.](https://pubmed.ncbi.nlm.nih.gov/25745516/)
 
 
