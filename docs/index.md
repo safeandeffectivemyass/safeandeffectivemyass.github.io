@@ -96,6 +96,7 @@ Articles of note:
 16. Light, T. C. T. (2021, November 26). Graphene Oxide & Nano-Router Circuitry in Covid Vaccines: Uncovering the True Purpose of These Mandatory Toxic Injections - Truth Comes to Light. Truth Comes to Light. https://truthcomestolight.com/graphene-oxide-nano-router-circuitry-in-covid-vaccines-uncovering-the-true-purpose-of-these-mandatory-toxic-injections/
 17. M, L. (2022, July 9). [Relevant article , White Papers  and other documents  concerning The m RNA VACCINE: An interesting  collection useful to better understand some phenomena  and to  generate hypotesys. International Online Medical Council.](https://www.iomcworld.com/abstract/relevant-article-white-papers-and-other-documents-concerning-the-m-rna-vaccine-an-interesting--collection-useful-to-bett-113662.html)
 18. Tavares, J.L., Cavalcanti, I.D.L., Santos Magalhães, N.S. et al. [Nanotechnology and COVID-19: quo vadis?. J Nanopart Res 24, 62 (2022).](https://doi.org/10.1007/s11051-022-05452-0)
-19. Jaramillo, C. (2022, June 15). [Posts Distort Questionable Study on COVID-19 Vaccination and EMS Calls - FactCheck.org. FactCheck.org.](https://www.factcheck.org/2022/06/scicheck-covid-19-increases-risk-for-heart-disorders-not-vaccines/)
+19. Jaramillo, C. (2022, June 15). [Posts Distort Questionable Study on COVID-19 Vaccination and EMS Calls - FactCheck.org.](https://www.factcheck.org/2022/06/scicheck-covid-19-increases-risk-for-heart-disorders-not-vaccines/)
+20. Journal, M. A. W., & Journal, W. (2023, February 1). [Top Expert Sounds the Alarm, Calls for Immediate Suspension of All mRNA Vaccines. IJR.](https://ijr.com/top-expert-sounds-alarm-calls-immediate-suspension-mrna-vaccines/)
 
 
