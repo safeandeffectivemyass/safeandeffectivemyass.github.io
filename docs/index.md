@@ -71,10 +71,11 @@ Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific M
 65. Shrestha, N. K., Burke, P. C., Nowacki, A. S., Simon, J. F., Hagen, A., & Gordon, S. M. (2022). Effectiveness of the Coronavirus Disease 2019 (COVID-19) Bivalent Vaccine. [PRE-PRINT]. https://doi.org/10.1101/2022.12.17.22283625 [Full](https://www.medrxiv.org/content/10.1101/2022.12.17.22283625v1.full.pdf)
 66. Polykretis, P. and McCullough, P.A. (2023), Rational harm-benefit assessments by age group are required for continued COVID-19 vaccination. Scand J Immunol e13242. https://doi.org/10.1111/sji.13242
 67. Skidmore, M. The role of social circle COVID-19 illness and vaccination experiences in COVID-19 vaccination decisions: an online survey of the United States population. BMC Infect Dis 23, 51 (2023). https://doi.org/10.1186/s12879-023-07998-3
-68. ... [mrna myocarditis](https://scholar.google.com/scholar?start=0&q=mrna+myocarditis&hl=en&as_sdt=0,5&as_ylo=2019)
-69. Brian S. Hooker and Neil Z. Miller (2021) Health effects in vaccinated versus unvaccinated children with covariates for breastfeeding status and type of birth.JTranslSci 7: DOI: 10.15761/JTS.1000459.
-70. Gazzeri, R. (2022). Scanning and Transmission Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific Medical Sciences, 98–111. https://doi.org/10.31080/asms.2022.06.1351 [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-robert-young.pdf)
-71. Tuuminen, Tamara. "Discussion and Commentary on the Preceding Article: A Question Concerning “Dark-Field Microscopic Analysis on the Blood of 1,006 Symptomatic Persons After Anti-COVID mRNA Injections from Pfizer/BioNtech or Moderna” by Benzi Cipelli et al." International Journal of Vaccine Theory, Practice, and Research 2.2 (2022): 444-1. [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-italie.pdf)
+68. Brian S. Hooker and Neil Z. Miller (2021) Health effects in vaccinated versus unvaccinated children with covariates for breastfeeding status and type of birth.JTranslSci 7: DOI: 10.15761/JTS.1000459.
+69. Gazzeri, R. (2022). Scanning and Transmission Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific Medical Sciences, 98–111. https://doi.org/10.31080/asms.2022.06.1351 [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-robert-young.pdf)
+70. Tuuminen, Tamara. "Discussion and Commentary on the Preceding Article: A Question Concerning “Dark-Field Microscopic Analysis on the Blood of 1,006 Symptomatic Persons After Anti-COVID mRNA Injections from Pfizer/BioNtech or Moderna” by Benzi Cipelli et al." International Journal of Vaccine Theory, Practice, and Research 2.2 (2022): 444-1. [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-italie.pdf)
+
+Or, do your own research: [Google Scholar - "mrna myocarditis"](https://scholar.google.com/scholar?start=0&q=mrna+myocarditis&hl=en&as_sdt=0,5&as_ylo=2019)
 
 Articles of note:
 
@@ -99,5 +100,6 @@ Articles of note:
 19. Jaramillo, C. (2022, June 15). [Posts Distort Questionable Study on COVID-19 Vaccination and EMS Calls - FactCheck.org.](https://www.factcheck.org/2022/06/scicheck-covid-19-increases-risk-for-heart-disorders-not-vaccines/)
 20. Journal, M. A. W., & Journal, W. (2023, February 1). [Top Expert Sounds the Alarm, Calls for Immediate Suspension of All mRNA Vaccines. IJR.](https://ijr.com/top-expert-sounds-alarm-calls-immediate-suspension-mrna-vaccines/)
 21. Hoseini SS, Sauer MG. [Molecular cloning using polymerase chain reaction, an educational guide for cellular engineering. J Biol Eng. 2015 Jan 19;9:2. doi: 10.1186/1754-1611-9-2. PMID: 25745516; PMCID: PMC4350901.](https://pubmed.ncbi.nlm.nih.gov/25745516/)
+22. [COVID - Denis Rancourt.](https://denisrancourt.ca/categories.php?id=1&name=covid)
 
 
