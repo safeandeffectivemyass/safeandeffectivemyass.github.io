@@ -83,6 +83,8 @@ Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific M
 77. Suspicions grow that nanoparticles in Pfizer’s COVID-19 vaccine trigger rare allergic reactions. (2023, February 1). Science | AAAS. https://www.science.org/content/article/suspicions-grow-nanoparticles-pfizer-s-covid-19-vaccine-trigger-rare-allergic-reactions
 78. Kelly JC, Carter EB, Raghuraman N, Nolan LS, Gong Q, Lewis AN, Good M. Anti-severe acute respiratory syndrome coronavirus 2 antibodies induced in breast milk after Pfizer-BioNTech/BNT162b2 vaccination. Am J Obstet Gynecol. 2021 Jul;225(1):101-103. doi: 10.1016/j.ajog.2021.03.031. Epub 2021 Mar 31. PMID: 33798480; PMCID: PMC8062573.
 79. D'Cruz A, Parker H, Saha M. A Bullous Eruption following the Pfizer-BioNTech COVID-19 vaccination. J Eur Acad Dermatol Venereol. 2021 Dec;35(12):e864-e865. doi: 10.1111/jdv.17606. Epub 2021 Aug 31. PMID: 34416058; PMCID: PMC8447394.
+80. Mansanguan S, Charunwatthana P, Piyaphanee W, Dechkhajorn W, Poolcharoen A, Mansanguan C. Cardiovascular Manifestation of the BNT162b2 mRNA COVID-19 Vaccine in Adolescents. Trop Med Infect Dis. 2022 Aug 19;7(8):196. doi: 10.3390/tropicalmed7080196. PMID: 36006288; PMCID: PMC9414075.
+81. Sun, C.L.F., Jaffe, E. & Levi, R. Increased emergency cardiovascular events among under-40 population in Israel during vaccine rollout and third COVID-19 wave. Sci Rep 12, 6978 (2022). https://doi.org/10.1038/s41598-022-10928-z
 
 Or, do your own research: [Google Scholar - "mrna myocarditis"](https://scholar.google.com/scholar?start=0&q=mrna+myocarditis&hl=en&as_sdt=0,5&as_ylo=2019)
 
@@ -111,5 +113,6 @@ Articles of note:
 21. Hoseini SS, Sauer MG. [Molecular cloning using polymerase chain reaction, an educational guide for cellular engineering. J Biol Eng. 2015 Jan 19;9:2. doi: 10.1186/1754-1611-9-2. PMID: 25745516; PMCID: PMC4350901.](https://pubmed.ncbi.nlm.nih.gov/25745516/)
 22. [COVID - Denis Rancourt.](https://denisrancourt.ca/categories.php?id=1&name=covid)
 23. COVID-19 Patent Wars: mRNA and Lipid Nanoparticle Pioneers Clash over Vaccine Delivery Patents. (n.d.). https://qa.americanbar.org/groups/intellectual_property_law/publications/landslide/2022-23/september-october/covid-19-patent-wars-mrna-lipid-nanoparticle-pioneers-clash-over-vaccine-delivery-patents/
+24. University of Basel. (2022, November 9). Temporary mild damage to heart muscle cells after Covid-19 booster vaccination. myScience / News / Science Wire. https://www.myscience.org/en/news/wire/temporary_mild_damage_to_heart_muscle_cells_after_covid_19_booster_vaccination-2022-unibas
 
 
