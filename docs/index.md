@@ -74,6 +74,15 @@ Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific M
 68. Brian S. Hooker and Neil Z. Miller (2021) Health effects in vaccinated versus unvaccinated children with covariates for breastfeeding status and type of birth.JTranslSci 7: DOI: 10.15761/JTS.1000459.
 69. Gazzeri, R. (2022). Scanning and Transmission Electron Microscopy Reveals Graphene Oxide in CoV-19 Vaccines. Acta Scientific Medical Sciences, 98–111. https://doi.org/10.31080/asms.2022.06.1351 [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-robert-young.pdf)
 70. Tuuminen, Tamara. "Discussion and Commentary on the Preceding Article: A Question Concerning “Dark-Field Microscopic Analysis on the Blood of 1,006 Symptomatic Persons After Anti-COVID mRNA Injections from Pfizer/BioNtech or Moderna” by Benzi Cipelli et al." International Journal of Vaccine Theory, Practice, and Research 2.2 (2022): 444-1. [PDF](https://nouveau-monde.ca/wp-content/uploads/2022/08/rapport-italie.pdf)
+71. Jedlowski, Patrick M., and Mahdieh F. Jedlowski. "Morbilliform rash after administration of Pfizer-BioNTech COVID-19 mRNA vaccine." Dermatology online journal 27.1 (2021).
+72. Klimek, Ludger, et al. "Severe allergic reactions after COVID-19 vaccination with the Pfizer/BioNTech vaccine in Great Britain and USA: position statement of the German allergy societies: medical Association of German Allergologists (AeDA), German Society for Allergology and Clinical Immunology (DGAKI) and Society for Pediatric Allergology and Environmental Medicine (GPA)." Allergo journal international 30 (2021): 51-55.
+73. de Vrieze, Jop. "Suspicions grow that nanoparticles in Pfizer’s COVID-19 vaccine trigger rare allergic reactions." Science 10.10.1126 (2020).
+74. Kelly, Jeannie C., et al. "Anti–severe acute respiratory syndrome coronavirus 2 antibodies induced in breast milk after Pfizer-BioNTech/BNT162b2 vaccination." American Journal of Obstetrics & Gynecology 225.1 (2021): 101-103.
+75. McSweeney MD, Mohan M, Commins SP, Lai SK. Anaphylaxis to Pfizer/BioNTech mRNA COVID-19 Vaccine in a Patient With Clinically Confirmed PEG Allergy. Front Allergy. 2021 Sep 29;2:715844. doi: 10.3389/falgy.2021.715844. PMID: 35387046; PMCID: PMC8974707.
+76. Klimek, L., Novak, N., Hamelmann, E. et al. Severe allergic reactions after COVID-19 vaccination with the Pfizer/BioNTech vaccine in Great Britain and USA. Allergo J Int 30, 51–55 (2021). https://doi.org/10.1007/s40629-020-00160-4
+77. Suspicions grow that nanoparticles in Pfizer’s COVID-19 vaccine trigger rare allergic reactions. (2023, February 1). Science | AAAS. https://www.science.org/content/article/suspicions-grow-nanoparticles-pfizer-s-covid-19-vaccine-trigger-rare-allergic-reactions
+78. Kelly JC, Carter EB, Raghuraman N, Nolan LS, Gong Q, Lewis AN, Good M. Anti-severe acute respiratory syndrome coronavirus 2 antibodies induced in breast milk after Pfizer-BioNTech/BNT162b2 vaccination. Am J Obstet Gynecol. 2021 Jul;225(1):101-103. doi: 10.1016/j.ajog.2021.03.031. Epub 2021 Mar 31. PMID: 33798480; PMCID: PMC8062573.
+79. D'Cruz A, Parker H, Saha M. A Bullous Eruption following the Pfizer-BioNTech COVID-19 vaccination. J Eur Acad Dermatol Venereol. 2021 Dec;35(12):e864-e865. doi: 10.1111/jdv.17606. Epub 2021 Aug 31. PMID: 34416058; PMCID: PMC8447394.
 
 Or, do your own research: [Google Scholar - "mrna myocarditis"](https://scholar.google.com/scholar?start=0&q=mrna+myocarditis&hl=en&as_sdt=0,5&as_ylo=2019)
 
@@ -101,5 +110,6 @@ Articles of note:
 20. Journal, M. A. W., & Journal, W. (2023, February 1). [Top Expert Sounds the Alarm, Calls for Immediate Suspension of All mRNA Vaccines. IJR.](https://ijr.com/top-expert-sounds-alarm-calls-immediate-suspension-mrna-vaccines/)
 21. Hoseini SS, Sauer MG. [Molecular cloning using polymerase chain reaction, an educational guide for cellular engineering. J Biol Eng. 2015 Jan 19;9:2. doi: 10.1186/1754-1611-9-2. PMID: 25745516; PMCID: PMC4350901.](https://pubmed.ncbi.nlm.nih.gov/25745516/)
 22. [COVID - Denis Rancourt.](https://denisrancourt.ca/categories.php?id=1&name=covid)
+23. COVID-19 Patent Wars: mRNA and Lipid Nanoparticle Pioneers Clash over Vaccine Delivery Patents. (n.d.). https://qa.americanbar.org/groups/intellectual_property_law/publications/landslide/2022-23/september-october/covid-19-patent-wars-mrna-lipid-nanoparticle-pioneers-clash-over-vaccine-delivery-patents/
 
 
