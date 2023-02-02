@@ -115,5 +115,6 @@ Articles of note:
 23. COVID-19 Patent Wars: mRNA and Lipid Nanoparticle Pioneers Clash over Vaccine Delivery Patents. (n.d.). https://qa.americanbar.org/groups/intellectual_property_law/publications/landslide/2022-23/september-october/covid-19-patent-wars-mrna-lipid-nanoparticle-pioneers-clash-over-vaccine-delivery-patents/
 24. University of Basel. (2022, November 9). Temporary mild damage to heart muscle cells after Covid-19 booster vaccination. myScience / News / Science Wire. https://www.myscience.org/en/news/wire/temporary_mild_damage_to_heart_muscle_cells_after_covid_19_booster_vaccination-2022-unibas
 25. Scientists, P. and M. (2022, June 8). Declaration IV - Restore Scientific Integrity. Global Covid Summit. https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity
+26. Robinson, S. (2023, January 31). CDC Deputy Director Admits COVID-19 Shots Causing “Debilitating Illnesses” in Some. The Maine Wire. https://www.themainewire.com/2023/01/cdc-deputy-director-admits-covid-19-shots-causing-debilitating-illnesses-in-some/
 
 
