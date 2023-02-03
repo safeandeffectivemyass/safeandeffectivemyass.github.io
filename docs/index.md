@@ -116,6 +116,9 @@ Articles of note:
 24. University of Basel. (2022, November 9). Temporary mild damage to heart muscle cells after Covid-19 booster vaccination. myScience / News / Science Wire. https://www.myscience.org/en/news/wire/temporary_mild_damage_to_heart_muscle_cells_after_covid_19_booster_vaccination-2022-unibas
 25. Scientists, P. and M. (2022, June 8). Declaration IV - Restore Scientific Integrity. Global Covid Summit. https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity
 26. Robinson, S. (2023, January 31). CDC Deputy Director Admits COVID-19 Shots Causing “Debilitating Illnesses” in Some. The Maine Wire. https://www.themainewire.com/2023/01/cdc-deputy-director-admits-covid-19-shots-causing-debilitating-illnesses-in-some/
-27. Could a popular COVID-19 antiviral supercharge the pandemic? (2023, February 2). Science | AAAS. https://www.science.org/content/article/could-popular-covid-19-antiviral-supercharge-pandemic
+27. Could a popular COVID-19 antiviral supercharge the pandemic? (2023, February 2). Science; AAAS. https://www.science.org/content/article/could-popular-covid-19-antiviral-supercharge-pandemic
+28. Spike-antibody responses to ChAdOx1 and BNT162b2 vaccines by demographic and clinical factors (Virus Watch study)
+Madhumita Shrotri, Ellen Fragaszy, Cyril Geismar, Vincent Nguyen, Sarah Beale, Isobel Braithwaite, Thomas E Byrne, Wing Lam Erica Fong, Jana Kovar, Annalan M D Navaratnam, Parth Patel, Anna Aryee, Jamie Lopez Bernal, Anne M Johnson, Alison Rodger, Andrew C Hayward, Robert W Aldridge
+medRxiv 2021.05.12.21257102; doi: https://doi.org/10.1101/2021.05.12.21257102
 
 
