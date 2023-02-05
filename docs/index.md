@@ -121,5 +121,7 @@ Articles of note:
 28. Spike-antibody responses to ChAdOx1 and BNT162b2 vaccines by demographic and clinical factors (Virus Watch study)
 Madhumita Shrotri, Ellen Fragaszy, Cyril Geismar, Vincent Nguyen, Sarah Beale, Isobel Braithwaite, Thomas E Byrne, Wing Lam Erica Fong, Jana Kovar, Annalan M D Navaratnam, Parth Patel, Anna Aryee, Jamie Lopez Bernal, Anne M Johnson, Alison Rodger, Andrew C Hayward, Robert W Aldridge
 medRxiv 2021.05.12.21257102; doi: https://doi.org/10.1101/2021.05.12.21257102
+29. Liu Y, Zhao C, Sabirsh A, Ye L, Wu X, Lu H, Liu J. A Novel Graphene Quantum Dot-Based mRNA Delivery Platform. ChemistryOpen. 2021 Jul;10(7):666-671. doi: 10.1002/open.202000200. Epub 2021 Apr 7. PMID: 33829677; PMCID: PMC8248920.
+
 
 
