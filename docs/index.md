@@ -3,7 +3,7 @@
 
 Safe and Effective? My Ass:
 
-1.Husby A, Gulseth HL, Hovi P, et al     [Clinical outcomes of myocarditis after SARS-CoV-2 mRNA vaccination in four Nordic countries: population based cohort study](https://bmjmedicine.bmj.com/content/2/1/e000373) BMJ Medicine 2023;2:e000373. doi: 10.1136/bmjmed-2022-000373 
+1. Husby A, Gulseth HL, Hovi P, et al     [Clinical outcomes of myocarditis after SARS-CoV-2 mRNA vaccination in four Nordic countries: population based cohort study](https://bmjmedicine.bmj.com/content/2/1/e000373) BMJ Medicine 2023;2:e000373. doi: 10.1136/bmjmed-2022-000373 
 2. Perez, J.-C., Moret-Chalmin, C., & Montagnier, L. (2023). Emergence of a New Creutzfeldt-Jakob Disease: 26 Cases of the Human Version of Mad-Cow Disease, Days After a COVID-19 Injection. International Journal of Vaccine Theory, Practice, and Research, 3(1), 727–770. Retrieved from https://ijvtpr.com/index.php/IJVTPR/article/view/66 [PDF](https://ijvtpr.com/index.php/IJVTPR/article/download/66/182/351)
 3. Karrow, N.A.; Shandilya, U.K.; Pelech, S.; Wagter-Lesperance, L.; McLeod, D.; Bridle, B.; Mallard, B.A. Maternal COVID-19 Vaccination and Its Potential Impact on Fetal and Neonatal Development. Vaccines 2021, 9, 1351. https://doi.org/10.3390/vaccines9111351 [Full](https://www.mdpi.com/2076-393X/9/11/1351)
 4. Ling, V.W.T.; Fan, B.E.; Lau, S.L.; Lee, X.H.; Tan, C.W.; Lee, S.Y. Severe Thrombocytopenia, Thrombosis and Anti-PF4 Antibody after Pfizer-BioNTech COVID-19 mRNA Vaccine Booster—Is It Vaccine-Induced Immune Thrombotic Thrombocytopenia? Vaccines 2022, 10, 2023. https://doi.org/10.3390/vaccines10122023 [Full](https://www.mdpi.com/2076-393X/10/12/2023)
