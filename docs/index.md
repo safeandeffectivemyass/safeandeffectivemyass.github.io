@@ -123,6 +123,7 @@ Madhumita Shrotri, Ellen Fragaszy, Cyril Geismar, Vincent Nguyen, Sarah Beale, I
 medRxiv 2021.05.12.21257102; doi: https://doi.org/10.1101/2021.05.12.21257102
 29. Liu Y, Zhao C, Sabirsh A, Ye L, Wu X, Lu H, Liu J. A Novel Graphene Quantum Dot-Based mRNA Delivery Platform. ChemistryOpen. 2021 Jul;10(7):666-671. doi: 10.1002/open.202000200. Epub 2021 Apr 7. PMID: 33829677; PMCID: PMC8248920.
 30. Langreth, R., & Rutherford, F. (2023, January 13). [Pfizer Bivalent Vaccine Linked to Strokes in Preliminary Data. Bloomberg.com](https://www.bloomberg.com/news/articles/2023-01-13/pfizer-bivalent-vaccine-linked-to-stroke-in-preliminary-data)
+31. Jocelyn Kaiser, SCIENCE, Feb 2019 [EXCLUSIVE: Controversial experiments that could make bird flu more risky poised to resume](https://www.science.org/content/article/exclusive-controversial-experiments-make-bird-flu-more-risky-poised-resume)
 
 
 
