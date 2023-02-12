@@ -86,6 +86,7 @@ Safe and Effective? My Ass:
 79. D'Cruz A, Parker H, Saha M. A Bullous Eruption following the Pfizer-BioNTech COVID-19 vaccination. J Eur Acad Dermatol Venereol. 2021 Dec;35(12):e864-e865. doi: 10.1111/jdv.17606. Epub 2021 Aug 31. PMID: 34416058; PMCID: PMC8447394.
 80. Mansanguan S, Charunwatthana P, Piyaphanee W, Dechkhajorn W, Poolcharoen A, Mansanguan C. Cardiovascular Manifestation of the BNT162b2 mRNA COVID-19 Vaccine in Adolescents. Trop Med Infect Dis. 2022 Aug 19;7(8):196. doi: 10.3390/tropicalmed7080196. PMID: 36006288; PMCID: PMC9414075.
 81. Sun, C.L.F., Jaffe, E. & Levi, R. Increased emergency cardiovascular events among under-40 population in Israel during vaccine rollout and third COVID-19 wave. Sci Rep 12, 6978 (2022). https://doi.org/10.1038/s41598-022-10928-z
+82. Skidmore, M. [The role of social circle COVID-19 illness and vaccination experiences in COVID-19 vaccination decisions: an online survey of the United States population. BMC Infect Dis 23, 51 (2023). https://doi.org/10.1186/s12879-023-07998-3](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-023-07998-3)
 
 Or, do your own research: [Google Scholar - "mrna myocarditis"](https://scholar.google.com/scholar?start=0&q=mrna+myocarditis&hl=en&as_sdt=0,5&as_ylo=2019)
 
